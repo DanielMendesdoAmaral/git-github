@@ -1,1 +1,1 @@
-# git-github
+Curso de git/github do Curso em Vídeo.
